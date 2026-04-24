@@ -15,10 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/vous-etes/collectivite/index.html"
+from = "/vous-etes/collectivite/"
 to = "/vous-etes/agent-public/"
 
 [[redirects]]
-from = "/projets/index.html"
+from = "/projets/"
 to = "/kits/"
 
