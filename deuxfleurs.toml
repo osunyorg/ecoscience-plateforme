@@ -14,3 +14,11 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/vous-etes/collectivite/index.html"
+to = "/vous-etes/agent-public/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/kits/"
+
